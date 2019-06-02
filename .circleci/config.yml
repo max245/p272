@@ -8,7 +8,9 @@ jobs:
         name: The First Step
         command: |
           echo 'Hello class!'
-          echo 'This is TB1 group'
+          echo 'This is TB1 group"
+test:
+
 workflows:
   version: 2
   workflow:
